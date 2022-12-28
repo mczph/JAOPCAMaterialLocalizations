@@ -63,7 +63,7 @@
     "jaopca.material.green_sapphire": "绿蓝宝石",
     "jaopca.material.grossular": "钙铝榴石",
     "jaopca.material.heliodor": "金绿柱石",
-    "jaopca.material.hop_graphite": "HOP石墨",
+    "jaopca.material.hop_graphite": "高定向热解石墨",
     "jaopca.material.invar": "殷钢",
     "jaopca.material.iolite": "堇青石",
     "jaopca.material.iridium": "铱",
@@ -158,6 +158,6 @@
     "jaopca.material.silicon": "硅",
     "jaopca.material.thermite": "铝热剂",
     "jaopca.material.carbon": "碳",
-    "jaopca.material.netherite_scrap": "下界合金",
+    "jaopca.material.netherite_scrap": "下界合金碎片",
     "jaopca.material.hellforged": "炼狱"
 }
